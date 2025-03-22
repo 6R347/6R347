@@ -21,7 +21,9 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-0085CA?style=for-the-badge&logo=metasploit&logoColor=white)  
 
 ### 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+### 📈 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=6R347&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6R347&layout=compact&theme=radical)  
+ 
 
 🚀 **Check out my repositories for more cool cybersecurity projects!**  
